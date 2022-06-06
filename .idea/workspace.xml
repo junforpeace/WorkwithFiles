@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8e1a986-12d0-4f5e-8842-690b97d2fb2b" name="Changes" comment="ZipParsedTest added">
+    <list default="true" id="f8e1a986-12d0-4f5e-8842-690b97d2fb2b" name="Changes" comment="changes gitignore">
       <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/FilesParsedTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/SelenideFileTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/Files/1.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/Files/file-1.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/Files/file_example_CSV_5000.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654526097869</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changes gitignore">
+      <created>1654529174122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654529174122</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +249,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ZipParsedTest added" />
-    <option name="LAST_COMMIT_MESSAGE" value="ZipParsedTest added" />
+    <MESSAGE value="changes gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes gitignore" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
