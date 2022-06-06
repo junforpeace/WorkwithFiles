@@ -10,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/src/test/resources/Files/1.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/Files/file-1.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/Files/file_example_CSV_5000.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+    "settings.editor.selected.configurable": "project.propGUI"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -217,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654525735385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ZipParsedTest added">
+      <created>1654526097869</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526097869</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,5 +242,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ZipParsedTest added" />
     <option name="LAST_COMMIT_MESSAGE" value="ZipParsedTest added" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
