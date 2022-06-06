@@ -26,6 +26,7 @@ public class ZipParsedTest {
             while((entry = zis.getNextEntry()) != null) {
                 if (entry.getName().equals("file-sample_150kB.pdf")) {
                     PDF pdf = new PDF(zis);
+                    assertThat(pdf.numberOfPages).isEqualTo(4);
                 }
                 else if (entry.getName().equals("file_example_CSV_5000.csv")) {
                     CSVReader reader = new CSVReader(new InputStreamReader(zis));
